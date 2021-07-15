@@ -1,21 +1,27 @@
 {
-    "name": "chandrian-owl",
-    "displayName": "Chandrian Owl",
-    "description": "A blursed mix of Chandrian Blue and Night Owl",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Chandrian Owl Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Chandrian Owl Theme-color-theme.json"
-            }
-        ]
-    }
+	"name": "chandrian-owl",
+	"displayName": "Chandrian Owl",
+	"description": "A blursed mix of Chandrian Blue and Night Owl",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.55.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Chandrian Owl Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Chandrian Owl Theme-color-theme.json"
+			}
+		]
+	},
+	"scripts": {
+		"release": "standard-version"
+	},
+	"devDependencies": {
+		"standard-version": "^9.3.1"
+	}
 }
