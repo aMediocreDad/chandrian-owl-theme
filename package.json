@@ -3,6 +3,7 @@
 	"displayName": "Chandrian Owl",
 	"description": "A blursed mix of Chandrian Blue and Night Owl",
 	"version": "0.0.1",
+	"publisher": "aMediocreDev",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
