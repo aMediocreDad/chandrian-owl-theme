@@ -1,11 +1,21 @@
 {
 	"name": "chandrian-owl",
 	"displayName": "Chandrian Owl",
-	"description": "A blursed mix of Chandrian Blue and Night Owl",
+	"description": "A blursed mix of Chandrian and Night Owl",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aMediocreDad/chandrian-owl"
+	},
+	"license": "ISC",
 	"version": "0.0.1",
 	"publisher": "aMediocreDev",
 	"engines": {
 		"vscode": "^1.55.0"
+	},
+	"galleryBanner": {
+		"color": "#011627",
+		"theme": "dark"
 	},
 	"categories": [
 		"Themes"
