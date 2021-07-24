@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart' as material;
 
-void main(){  
+void main(){
   runApp(
     new MaterialApp(
       home: new MyButton(),
