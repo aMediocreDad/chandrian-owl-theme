@@ -15,7 +15,7 @@
 			{
 				"label": "Chandrian Owl Theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Chandrian Owl Theme-color-theme.json"
+				"path": "./themes/chandrian-owl-theme-color-theme.json"
 			}
 		]
 	},
@@ -23,6 +23,7 @@
 		"release": "standard-version"
 	},
 	"devDependencies": {
+		"prettier": "^2.3.2",
 		"standard-version": "^9.3.1"
 	}
 }
