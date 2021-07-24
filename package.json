@@ -8,7 +8,7 @@
 		"url": "https://github.com/aMediocreDad/chandrian-owl"
 	},
 	"license": "ISC",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"publisher": "aMediocreDev",
 	"engines": {
 		"vscode": "^1.55.0"
